@@ -1,0 +1,37 @@
+.weatherBg
+{
+  background: url("https://www.texturex.com/wp-content/uploads/2018/03/huge-sky-texture-cloud-sun-blue-day-beautiful-blue-cloudscape-nature-weather-wallpaper-background-5.jpg");
+  height: 50vh;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading
+{
+  color: black;
+  font-weight: 600;
+  font-family: cursive;
+}
+.weatherResultBox
+{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathericon
+{
+  margin-bottom: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathercity
+{
+  font-size: 35px;
+}
+.weathertemp
+{
+  font-size: 55px;
+  font-weight: 700;
+}
